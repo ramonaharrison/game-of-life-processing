@@ -31,7 +31,7 @@ public class Life extends PApplet {
 
 
     // max - (http://www.conwaylife.com/wiki/Max)
-//    static String filepathString = "/Users/mona/Documents/coding/processing/life/max.txt";
+//    static String filepathString = "max.txt";
 //    static int yPixels = 1000;
 //    static int xPixels = 1000;
 //    static int yOffset = 0;
@@ -41,7 +41,7 @@ public class Life extends PApplet {
 //    static int cell = 2;
 
     //lobster (http://www.conwaylife.com/wiki/Breeder_1)
-//    static String filepathString = "/Users/mona/Documents/coding/processing/life/lobster.txt";
+//    static String filepathString = "lobster.txt";
 //    static int yPixels = 1000;
 //    static int xPixels = 1600;
 //    static int yOffset = 0;
@@ -51,8 +51,19 @@ public class Life extends PApplet {
 //    static int cell = 2;
 
     //noah's ark (http://www.conwaylife.com/wiki/Noah%27s_ark)
+//    static String startPattern = "noahsArk";
+//    static String filepathString = "noahsark.txt";
+//    static int yPixels = 1000;
+//    static int xPixels = 1600;
+//    static int yOffset = -250;
+//    static int xOffset = 0;
+//    static int y = 200;
+//    static int x = 200;
+//    static int cell = 8;
+
+    //noah's ark (http://www.conwaylife.com/wiki/Noah%27s_ark)
     static String startPattern = "noahsArk";
-    static String filepathString = "/Users/mona/Documents/coding/processing/life/noahsark.txt";
+    static String filepathString = "bigun.txt";
     static int yPixels = 1000;
     static int xPixels = 1600;
     static int yOffset = -250;
