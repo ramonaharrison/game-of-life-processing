@@ -1,6 +1,6 @@
 # Game of Life
 
-Conway's Game of Life as a Processing sketch. 
+Conway's Game of Life cellular automata as a Processing sketch. 
 
 Includes classic start patterns:
 
