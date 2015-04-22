@@ -30,5 +30,5 @@ Include a new pattern:
 ## More info:
 
 * [Wikipedia - Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-* [LifeWiki](http://www.conwaylife.com/wiki/Main_Page)
 * [Logical Functions in the Game of Life](http://www.rennard.org/alife/CollisionBasedRennard.pdf)
+* [LifeWiki](http://www.conwaylife.com/wiki/Main_Page)
